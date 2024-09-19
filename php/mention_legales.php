@@ -12,7 +12,7 @@ require_once('header.php');
 <p class='text-center'>E-mail : Michel.bernard@gmail.com</p>
 <p class='text-center'>Téléphone : is not good</p>
 
-<p class='text-center'>Conception du site internet : Benjamin HOUBRON – www.ce-site-n-existe-pas.com</p>
+<p class='text-center'>Conception du site internet : Benj H– www.ce-site-n-existe-pas.com</p>
 
 <p class='text-center'>Le site est hébergé par la société personne, 222 Boulevard Gustave Flobert, 68956 Clermont-Ferrend,
 Capital de 100000000000 euros, Siret : 010 989 80456524.</p>
